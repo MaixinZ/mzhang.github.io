@@ -1,0 +1,30 @@
+.name{
+    border-style: solid;
+    padding:20px;
+    border-color: pink;
+}
+
+.myname{
+    border-style: solid;
+    padding:20px;
+    background-color: yellow;
+    margin-top:20px;
+}
+
+.topic{
+    width: 100%;
+    height: 250px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: pink;
+    border: 1px solid #ccc;
+    text-align: center;
+}
+
+.activitylist{
+    word-spacing: 40px;
+}
+
+.myimages{
+    width:100px;
+}
